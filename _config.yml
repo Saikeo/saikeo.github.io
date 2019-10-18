@@ -1,6 +1,6 @@
-title: m0chan Blog - Info Sec, CTF & Hacking
-author: m0chan
-email: root@m0chan.co.uk
+title: Saikeo Blog - Network, Open Source, Info Sec, CTF & Hacking
+author: Saikeo
+email: kavhanxay@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Info Sec, CTF & Hacking
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -10,16 +10,16 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Aidan Preston
-  tagline: Penetration Tester
+  name: Saikeo Kavhanxay
+  tagline: Network and Penetration Tester
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: m0chan98
-    github:  m0chan
-    linkedIn: in/aidan-preston-862479127
+    twitter: KAVHANXAY
+    github:  Saikeo
+    linkedIn: in/saikeo
     rss: /feed.xml
     # dribbble: jekyll
     # facebook: jekyll
