@@ -11,7 +11,10 @@ thumbnail: https://d3m7xw68ay40x8.cloudfront.net/assets/2019/08/02145655/august-
 
 
 # This leader of LDC
-https://i.imgur.com/VMjh0Yn.jpg
+<p align = "center">
+<img src = "https://i.imgur.com/VMjh0Yn.jpg">
+</p>
 # This is lovely brother of our leader
-https://i.imgur.com/Istmajt.jpg
-
+<p align = "center">
+<img src = "https://i.imgur.com/Istmajt.jpg">
+</p>
