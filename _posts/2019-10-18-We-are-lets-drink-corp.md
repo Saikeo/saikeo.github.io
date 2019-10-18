@@ -6,7 +6,7 @@ thumbnail: https://d3m7xw68ay40x8.cloudfront.net/assets/2019/08/02145655/august-
 ---
 
 <p align = "center">
-<img src = "https://imgur.com/2UNjnrE">
+<img src = "https://i.imgur.com/2UNjnrE.jpg">
 </p>
 
 
