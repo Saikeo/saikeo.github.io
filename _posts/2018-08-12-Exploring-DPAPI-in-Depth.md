@@ -1,7 +1,7 @@
 ---
 title: Exploring DPAPI in Depth
 tags: [Windows,DPAPI,Credential Theft,Mimikatz]
-published: false
+published: true
 thumbnail: https://i1.social.s-msft.com/profile/u/avatar.jpg?displayname=laura.co&size=extralarge&version=00000000-0000-0000-0000-000000000001
 ---
 

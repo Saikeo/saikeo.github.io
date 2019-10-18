@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-10-18-How-to-install-openSUSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/How to install openSUSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-12-Exploring-DPAPI-in-Depth.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-12-Exploring-DPAPI-in-Depth.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1571380397202" duration="1751000" />
       <workItem from="1571382172218" duration="18000" />
       <workItem from="1571382239903" duration="15000" />
-      <workItem from="1571382273868" duration="1007000" />
+      <workItem from="1571382273868" duration="1184000" />
     </task>
     <servers />
   </component>
