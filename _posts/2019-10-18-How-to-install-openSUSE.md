@@ -1,16 +1,15 @@
 ---
-title: Exploring DPAPI in Depth
+title: How to install openSUSE
 tags: [Windows,DPAPI,Credential Theft,Mimikatz]
 published: true
-thumbnail: https://i1.social.s-msft.com/profile/u/avatar.jpg?displayname=laura.co&size=extralarge&version=00000000-0000-0000-0000-000000000001
+thumbnail: https://en.opensuse.org/images/4/44/Button-filled-colour.png
 ---
 
-*I want to start with article by saying I set out to learn DPAPI in greater detail and I figured that writing this would help cement my existing knowledge and give me reason to learn along the way, I am no Windows expert I am simply learning as I go along and getting my head around all the different technologies & inner workings so if you notice something amiss feel free to DM me and put me right. And if you do not understand something feel free to drop me a DM and I will do my best to help :)*
+<p align = "center">
+<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/OpenSUSE_official-logo-color.svg/1200px-OpenSUSE_official-logo-color.svg.png">
+</p>
 
 
-
-
-
-# [](#header-1)DPAPI Fundamentals 
+# Introduction
 
 
