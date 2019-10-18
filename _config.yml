@@ -18,7 +18,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: KAVHANXAY
-    github:  Saikeo
+    github:  
     linkedIn: in/saikeo
     rss: /feed.xml
     # dribbble: jekyll
