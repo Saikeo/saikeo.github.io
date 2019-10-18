@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Saikeo Kavhanxay
-  tagline: ອ້າຍແຊນກາກ
+  tagline: I love Let's Drink Group
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
