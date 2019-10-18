@@ -1,8 +1,8 @@
-title: Saikeo Blog - Network, Open Source, Info Sec, CTF & Hacking
+title: Saikeo Blog - Networking, Open Source, Info Sec, CTF & Hacking
 author: Saikeo
 email: kavhanxay@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Info Sec, CTF & Hacking
+  Networking, Open Source, Info Sec, CTF & Hacking
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Saikeo Kavhanxay
-  tagline: Network and Penetration Tester
+  tagline: Open Source Enthusiast
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
