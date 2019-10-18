@@ -1,7 +1,7 @@
 ---
 title: How to install openSUSE
-tags: [Windows,DPAPI,Credential Theft,Mimikatz]
-published: true
+tags: [OpenSUSE_official,Linux,Open Source]
+published: false
 thumbnail: https://en.opensuse.org/images/4/44/Button-filled-colour.png
 ---
 
