@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/How to install openSUSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/How to install openSUSE" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/How to install openSUSE" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <workItem from="1571380397202" duration="1751000" />
       <workItem from="1571382172218" duration="18000" />
       <workItem from="1571382239903" duration="15000" />
-      <workItem from="1571382273868" duration="410000" />
+      <workItem from="1571382273868" duration="593000" />
     </task>
     <servers />
   </component>
