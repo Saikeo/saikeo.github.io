@@ -12,7 +12,7 @@ sass:
 plainwhite:
   name: Saikeo Kavhanxay
   tagline: Open Source Enthusiast
-  tagline: Networking and Security
+  tagline1: Networking and Security
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
