@@ -2,6 +2,7 @@
 title: How to install Elasticsearch 7.x on openSUSE
 tags: [OpenSUSE_official,Linux,Open Source]
 published: true
+description: This is basic knowledge about installation Elasticsearch 7.x on openSUSE Leap 15.1
 thumbnail: http://awsmp-logos.s3.amazonaws.com/elasticsearch-logo.png
 ---
 
