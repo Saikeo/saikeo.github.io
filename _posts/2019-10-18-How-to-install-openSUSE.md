@@ -1,7 +1,7 @@
 ---
 title: How to install openSUSE
 tags: [OpenSUSE_official,Linux,Open Source]
-published: true
+published: false
 thumbnail: https://en.opensuse.org/images/4/44/Button-filled-colour.png
 ---
 
