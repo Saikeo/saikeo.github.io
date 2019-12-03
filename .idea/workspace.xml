@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-10-21-How-to-install-Elasticsearch-7.X-on-onopenSUSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-21-How-to-install-Elasticsearch-7.X-on-onopenSUSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +17,12 @@
   <component name="ProjectId" id="1SMNvHV6FuiC8IR1PPzGjmvC9o7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -36,15 +41,15 @@
       <recent name="C:\Users\Saikeo\Documents\GitHub\saikeo.github.io\_posts" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -72,7 +77,8 @@
       <workItem from="1574999606854" duration="36000" />
       <workItem from="1574999823994" duration="20000" />
       <workItem from="1574999854646" duration="21000" />
-      <workItem from="1575335256690" duration="1513000" />
+      <workItem from="1575335256690" duration="2179000" />
+      <workItem from="1575349145870" duration="1585000" />
     </task>
     <servers />
   </component>
@@ -94,5 +100,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1575349147681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575349147681" />
   </component>
 </project>
