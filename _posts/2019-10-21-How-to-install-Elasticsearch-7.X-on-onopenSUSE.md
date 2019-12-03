@@ -24,7 +24,7 @@ If 'java' is not a typo you can use command-not-found to lookup the package that
     cnf java
 saikeo@openSUSE:~> 
 ```
-In my case I didn't java yet. So we need to install java first.
+In my case I didn't install java yet. So we need to install java first.
 For openSUSE Leap 15.1 run the following as root:
 ```
 zypper addrepo https://download.opensuse.org/repositories/Java:Factory/openSUSE_Leap_15.1/Java:Factory.repo
