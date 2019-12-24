@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-31-Linux-Notes-And-Cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-31-Linux-Notes-And-Cheatsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,7 +79,10 @@
       <workItem from="1574999823994" duration="20000" />
       <workItem from="1574999854646" duration="21000" />
       <workItem from="1575335256690" duration="2179000" />
-      <workItem from="1575349145870" duration="1585000" />
+      <workItem from="1575349145870" duration="3375000" />
+      <workItem from="1575856420641" duration="2283000" />
+      <workItem from="1575940692010" duration="2011000" />
+      <workItem from="1577151404918" duration="111000" />
     </task>
     <servers />
   </component>
@@ -102,9 +106,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1575349147681">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1575882407851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575349147681" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575882407851" />
+    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1577151423978">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575940925931" />
+    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1577151423978" />
   </component>
 </project>
