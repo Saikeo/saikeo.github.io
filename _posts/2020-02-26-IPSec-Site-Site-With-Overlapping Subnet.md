@@ -144,7 +144,7 @@ PC1> ping 192.168.20.1 -t
 
 PC1>
 ```
-We are able to ping and it working perfectly. Now we are to check our NAT.
+We are able to ping and it working perfectly. Now we are going to check our NAT.
 
 ```
 R1#sh ip nat translations 
