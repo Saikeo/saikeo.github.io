@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-26-IPSec-Site-Site-With-Overlapping Subnet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-31-Linux-Notes-And-Cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-31-Linux-Notes-And-Cheatsheet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,19 @@
       <workItem from="1575349145870" duration="3375000" />
       <workItem from="1575856420641" duration="2283000" />
       <workItem from="1575940692010" duration="2011000" />
-      <workItem from="1577151404918" duration="111000" />
+      <workItem from="1577151404918" duration="1316000" />
+      <workItem from="1577689702463" duration="50000" />
+      <workItem from="1577689848604" duration="54000" />
+      <workItem from="1578359332966" duration="632000" />
+      <workItem from="1581392629372" duration="125000" />
+      <workItem from="1581392982690" duration="8000" />
+      <workItem from="1581407502391" duration="25000" />
+      <workItem from="1581407644550" duration="11000" />
+      <workItem from="1581407664526" duration="32000" />
+      <workItem from="1581407704609" duration="10000" />
+      <workItem from="1581407838189" duration="6000" />
+      <workItem from="1582680885746" duration="1525000" />
+      <workItem from="1582682436638" duration="1394000" />
     </task>
     <servers />
   </component>
@@ -106,14 +118,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="165" key="SettingsEditor" timestamp="1575882407851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575882407851" />
-    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1577151423978">
+    <state x="2312" y="88" key="#Plugins" timestamp="1582682421130">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1575940925931" />
-    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1577151423978" />
+    <state x="2312" y="88" key="#Plugins/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1582682421130" />
+    <state x="2399" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581392730141">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2399" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1581392730141" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1581407514429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1581407514429" />
+    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1582682488274">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="754" y="222" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1581407838189" />
+    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1582682488274" />
   </component>
 </project>
