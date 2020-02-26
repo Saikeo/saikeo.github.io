@@ -26,4 +26,29 @@ interface Ethernet0/1
  
 ip route 0.0.0.0 0.0.0.0 192.168.12.2
 ```
+# 2. Basic configuration on R2
+```
+interface Ethernet0/0
+ ip address 192.168.12.2 255.255.255.0
+ no shutdown
+ exit
  
+interface Ethernet0/1
+ ip address 192.168.23.2 255.255.255.0
+ no shutdown
+ exit
+```
+# 3. Basic configuration on R3
+```
+interface Ethernet0/0
+ ip address 192.168.23.3 255.255.255.0
+ no shutdown
+ exit
+ 
+interface Ethernet0/1
+ ip address 192.168.1.1 255.255.255.0
+ no shutdown
+ exit
+ 
+ip route 0.0.0.0 0.0.0.0 192.168.23.2
+```
