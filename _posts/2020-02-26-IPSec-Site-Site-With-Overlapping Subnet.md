@@ -10,6 +10,6 @@ thumbnail: https://i.imgur.com/bam8rgk.png
 <img src = "https://i.imgur.com/bam8rgk.png">
 </p>
 
-This is method how to configure IPSec site to site with overlapping subnet on Cisco IOS.
+This is method how to configure IPSec site to site with overlapping subnet on Cisco IOS and I will use the above topology to demonstrate this method.
 
 # 1. Basic configuration on R1
