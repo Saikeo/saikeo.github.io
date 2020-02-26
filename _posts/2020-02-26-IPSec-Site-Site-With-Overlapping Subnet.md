@@ -10,7 +10,7 @@ thumbnail: https://i.imgur.com/bam8rgk.png
 <img src = "https://i.imgur.com/bam8rgk.png">
 </p>
 
-This is method how to configure IPSec site to site with overlapping subnet on Cisco IOS and I will use the above topology to demonstrate this method.
+This is method how to configure IPSec site to site with overlapping subnet on Cisco IOS and I will use the above topology to demonstrate this method. In this post I will focus on technical and practical not theory.
 
 # 1. Basic configuration on R1
 ```
@@ -160,7 +160,7 @@ icmp 192.168.10.2:27625 192.168.1.2:27625 192.168.20.1:27625 192.168.20.1:27625
 --- 192.168.10.0       192.168.1.0        ---                ---
 R1#
 ```
-NAT is working and able to translate. Next we are to check IPSec.
+NAT is working and able to translate. Next we are going to check IPSec.
 ```
 R1#sh crypto ipsec sa
 
@@ -213,4 +213,4 @@ interface: Ethernet0/0
      outbound pcp sas:
 R1#
 ```
-IPSec is working and we able to packet have been encrypt and decrypt normally.
+IPSec is working and packet have been encrypt and decrypt normally.
