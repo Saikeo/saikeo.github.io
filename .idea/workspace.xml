@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-05-21-IPSec-Site-Site-With-Pre-Share-Key-Using-IPv6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-09-14-How-to-install-Terraform-on-CentOS-7.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-Windows-Notes-and-Cheatsheet.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="JupyterTrust" id="27649778-22bf-412d-8c8b-f546e15b3326" />
   <component name="ProjectId" id="1SMNvHV6FuiC8IR1PPzGjmvC9o7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -26,22 +29,25 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Saikeo\Documents\GitHub\saikeo.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Saikeo\Documents\GitHub\saikeo.github.io\_posts" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saikeo\Documents\GitHub\saikeo.github.io\_posts" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -112,12 +118,22 @@
       <workItem from="1589507526324" duration="15000" />
       <workItem from="1590032231570" duration="504000" />
       <workItem from="1590032809910" duration="407000" />
-      <workItem from="1590033229175" duration="5946000" />
+      <workItem from="1590033229175" duration="6612000" />
+      <workItem from="1599535240020" duration="121000" />
+      <workItem from="1599535830792" duration="85000" />
+      <workItem from="1599536128086" duration="72000" />
+      <workItem from="1599536220444" duration="25000" />
+      <workItem from="1599537280150" duration="62000" />
+      <workItem from="1599537817619" duration="96000" />
+      <workItem from="1599538239613" duration="70000" />
+      <workItem from="1599538326276" duration="17000" />
+      <workItem from="1600065040104" duration="21000" />
+      <workItem from="1600065081676" duration="682000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -136,38 +152,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2312" y="88" key="#Plugins" timestamp="1582682421130">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2312" y="88" key="#Plugins/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1582682421130" />
-    <state x="589" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590032991334">
+    <state x="416" y="125" key="#Plugins" timestamp="1599538273549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="589" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1590032991334" />
-    <state x="575" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589506368412">
+    <state x="416" y="125" key="#Plugins/0.0.1920.1040/-1600.113.1600.860@0.0.1920.1040" timestamp="1599538273549" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599537841341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="575" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1589506368412" />
-    <state x="567" y="1" key="CommitChangelistDialog2" timestamp="1590033168130">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="567" y="1" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1590033168130" />
-    <state x="2500" y="185" key="FileChooserDialogImpl" timestamp="1583306258778">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1583306258778" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1581407514429">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1581407514429" />
-    <state x="754" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1587978050004">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="754" y="222" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1587978050004" />
-    <state x="2477" y="287" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585122413949" />
-    <state x="768" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590033177424">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="768" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1590033177424" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1600.113.1600.860@0.0.1920.1040" timestamp="1599537841341" />
   </component>
 </project>
