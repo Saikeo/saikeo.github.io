@@ -1,7 +1,7 @@
 ---
-title: Initail System and High Availability Configuration
+title: Initail System and High Availability Configuration on Juniper vSRX
 tags: [Juniper,Networking,Firewall,Secuirty]
-published: true
+published: false
 description: In this topic I am going to demonstrate how to configure initail system and high availability on Juniper vSRX-NG on Junos 21.2R1.10. 
 thumbnail: https://i.imgur.com/a1OH6eY.png
 ---
