@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-08-25-IPv6-Transition-Technology.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-25-IPv6-Transition-Technology.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +136,8 @@
       <workItem from="1614139309938" duration="728000" />
       <workItem from="1616556229221" duration="1036000" />
       <workItem from="1629876597935" duration="2850000" />
+      <workItem from="1633061395142" duration="1469000" />
+      <workItem from="1633070002876" duration="1000" />
     </task>
     <servers />
   </component>
