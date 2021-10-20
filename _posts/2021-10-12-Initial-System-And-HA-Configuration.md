@@ -42,11 +42,11 @@ In this LAB I am going to configure initail system and high availability on Juni
 # set ssh rate-limit 5
 # set ftp connection-limit 5
 ```
-* Now test to login via ssh and web broswer
+* Test to login via ssh
 <p align = "center">
 <img src = "https://i.imgur.com/Lcewn9E.png">
 </p>
-
+* Test to login via web broswer
 <p align = "center">
 <img src = "https://i.imgur.com/9ur61Nl.png">
 </p>
