@@ -61,7 +61,6 @@ In this LAB I am going to configure initail system and high availability on Juni
 ```
 * Add new class as below:
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+<p align = "left">
+<img src = "https://i.imgur.com/FmFEAqO.png">
+</p>
