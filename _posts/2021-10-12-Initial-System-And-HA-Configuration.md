@@ -59,7 +59,7 @@ In this LAB I am going to configure initail system and high availability on Juni
 # set login user saikeo authentication plain-text-password
 # commit
 ```
-* Add new custom login class as below:
+* Add user with our new custom login class as below:
 
 <p align = "left">
 <img src = "https://i.imgur.com/FmFEAqO.png">
@@ -69,6 +69,7 @@ In this LAB I am going to configure initail system and high availability on Juni
 # set class saikeo-class permissions all allow-commands "configure private" deny-commands configure
 # set class saikeo-class permissions clear allow-commands "(show system uptime)|(show system storage)|(show interfaces terse)"
 # set class saikeo-class permissions view-configuration deny-commands "file delete"
+
 # set user ronly class ronly-class authentication plain-text-password 
 # set user saikeo1 class saikeo-class authentication plain-text-password
 # set user restricted class restricted-class authentication plain-text-password
@@ -77,4 +78,47 @@ Verify: User saikeo1 won't be able to use "configure" command. Need to use "conf
 <p align = "left">
 <img src = "https://i.imgur.com/dIGneJo.png">
 </p>
-* Syslog configuration
+* Syslog Configuration
+In this case my Syslog server is 192.168.2.10.
+```
+# edit system syslog 
+# set user * any emergency
+# set host 192.168.2.10 any emergency
+# set source-address 1.1.1.1
+# set file messages any critical
+# set file interactive-commands interactive-commands info
+# set file saikeo-policy-logs user info
+# set file saikeo-policy-logs match SK_FLOW
+# set file saikeo-policy-logs archive size 512k files 20
+# set file authorization-logs authorization info
+# set time-format year
+```
+* NTP Configuration
+Configure time zoe.
+```
+# edit system
+# set time-zone Asia/Vientiane
+# edit ntp
+# set server 192.168.2.10
+# set source-address 1.1.1.1
+# set authentication-key 1 type md5 value saikeo
+# set server 192.168.2.10 key 1
+# set trusted-key 1
+```
+* SNMP Configuration
+```
+# edit ntp
+# set community saikeo clients 192.168.2.10/32
+# set community saikeo authorization read-only
+```
+Configure SNMP to send authentification failures, hardware and environment, Link transitions and routing protocol to NMS 192.168.2.10
+```
+# set trap-group saikeo-group categories authentication chassis link routing
+# set trap-group saikeo-group targets 192.168.2.10
+```
+Configure SNMP contact, description and location.
+```
+# set contact "Saikeo User"
+# set description "Saikeo's Device"
+# set location "Vientiane"
+```
