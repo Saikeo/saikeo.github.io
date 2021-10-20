@@ -16,7 +16,7 @@ In this LAB I am going to configure initail system and high availability on Juni
 * Configuring hostname
 ```
 > configure
-# set system root-authentication encrypted-password yourpassword
+# set system root-authentication plain-text-password
 # set system host-name vSRX1
 # commit
 ```
@@ -50,3 +50,4 @@ In this LAB I am going to configure initail system and high availability on Juni
 <p align = "center">
 <img src = "https://i.imgur.com/9ur61Nl.png">
 </p>
+## [](#header-2) 2. Authentication and authorization
