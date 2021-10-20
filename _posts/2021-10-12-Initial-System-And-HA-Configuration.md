@@ -78,7 +78,7 @@ Verify: User saikeo1 won't be able to use "configure" command. Need to use "conf
 <p align = "left">
 <img src = "https://i.imgur.com/dIGneJo.png">
 </p>
-* Syslog Configuration
+## 3. Syslog Configuration
 In this case my Syslog server is 192.168.2.10.
 ```
 # edit system syslog 
@@ -93,8 +93,8 @@ In this case my Syslog server is 192.168.2.10.
 # set file authorization-logs authorization info
 # set time-format year
 ```
-* NTP Configuration
-  Configure time zoe.
+## 4. NTP Configuration
+.Configure time zoe.
 ```
 # edit system
 # set time-zone Asia/Vientiane
@@ -105,18 +105,18 @@ In this case my Syslog server is 192.168.2.10.
 # set server 192.168.2.10 key 1
 # set trusted-key 1
 ```
-* SNMP Configuration
+## 5. SNMP Configuration
 ```
 # edit ntp
 # set community saikeo clients 192.168.2.10/32
 # set community saikeo authorization read-only
 ```
-Configure SNMP to send authentification failures, hardware and environment, Link transitions and routing protocol to NMS 192.168.2.10
+* Configure SNMP to send authentification failures, hardware and environment, Link transitions and routing protocol to NMS 192.168.2.10
 ```
 # set trap-group saikeo-group categories authentication chassis link routing
 # set trap-group saikeo-group targets 192.168.2.10
 ```
-Configure SNMP contact, description and location.
+* Configure SNMP contact, description and location.
 ```
 # set contact "Saikeo User"
 # set description "Saikeo's Device"
