@@ -66,9 +66,10 @@ In this LAB I am going to configure initail system and high availability on Juni
 </p>
 ```
 # edit system login 
-# set class saikeo-class permissions all allow-commands "configure private" deny-commands configure
+# set class ronly-class permissions all allow-commands "configure private" deny-commands configure
 # set class saikeo-class permissions clear allow-commands "(show system uptime)|(show system storage)|(show interfaces terse)"
-# set class saikeo-class permissions view-configuration deny-commands "file delete"
+# set class restricted-class permissions view-configuration deny-commands "file delete"
+
 # set user ronly class ronly-class authentication plain-text-password 
 # set user saikeo1 class saikeo-class authentication plain-text-password
 # set user restricted class restricted-class authentication plain-text-password
@@ -93,7 +94,7 @@ In this case my Syslog server is 192.168.2.10.
 # set time-format year
 ```
 * NTP Configuration
- Configure time zoe.
+  Configure time zoe.
 ```
 # edit system
 # set time-zone Asia/Vientiane
