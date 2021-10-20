@@ -60,10 +60,9 @@ In this LAB I am going to configure initail system and high availability on Juni
 # commit
 ```
 * Add new class as below:
-```
+
 Username | password | Device | Privileges
 --- | --- | --- | ---
 ronly | admin123 | All | Has permission "view" and "viewconfiguration". Additionally, can NOT execute the "file delete" command.
 saikeo1 | admin123 | ALL | Has permissions "all". Can access the configuration mode only using "configure private" command.
 restricted | admin123 | All | Has permissions "clear'' and execute only the "show system uptime", "show system storage" and "show interface terse" commands and nothing else.
-```
