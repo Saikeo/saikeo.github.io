@@ -94,8 +94,7 @@ In this case my Syslog server is 192.168.2.10.
 # set time-format year
 ```
 * NTP Configuration
-
-Configure time zoe.
+ Configure time zoe.
 ```
 # edit system
 # set time-zone Asia/Vientiane
