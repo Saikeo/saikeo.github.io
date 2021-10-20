@@ -69,7 +69,6 @@ In this LAB I am going to configure initail system and high availability on Juni
 # set class saikeo-class permissions all allow-commands "configure private" deny-commands configure
 # set class saikeo-class permissions clear allow-commands "(show system uptime)|(show system storage)|(show interfaces terse)"
 # set class saikeo-class permissions view-configuration deny-commands "file delete"
-
 # set user ronly class ronly-class authentication plain-text-password 
 # set user saikeo1 class saikeo-class authentication plain-text-password
 # set user restricted class restricted-class authentication plain-text-password
