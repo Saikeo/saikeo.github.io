@@ -94,7 +94,7 @@ In this case my Syslog server is 192.168.2.10.
 # set time-format year
 ```
 ## 4. NTP Configuration
-.Configure time zoe.
+Configure time zone, NTP server and authentication.
 ```
 # edit system
 # set time-zone Asia/Vientiane
@@ -121,4 +121,27 @@ In this case my Syslog server is 192.168.2.10.
 # set contact "Saikeo User"
 # set description "Saikeo's Device"
 # set location "Vientiane"
+```
+## 6. Creating Clusters
+Configure cluster node ID for both node. O for node vSRX1 and 1 for node vSRX2.
+```
+root@vSRX1> set chassis cluster cluster-id 1 node 0 reboot
+root@vSRX2> set chassis cluster cluster-id 1 node 1 reboot
+```
+Verify:
+```
+{primary:node0}
+root@vSRX1> show chassis cluster status 
+Cluster ID: 1
+Node   Priority Status               Preempt Manual   Monitor-failures
+
+Redundancy group: 0 , Failover count: 1
+node0  1        primary              no      no       None           
+node1  1        secondary            no      no       None           
+```
+Configure GE-0/0/1 for Control link and GE-0/0/2 for Fabric link.
+```
+# set interfaces fab0 fabric-options member-interfaces ge-0/0/2
+# set interfaces fab1 fabric-options member-interfaces ge-7/0/2
+# set chassis cluster control-link-recovery
 ```
