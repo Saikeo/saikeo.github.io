@@ -59,8 +59,22 @@ In this LAB I am going to configure initail system and high availability on Juni
 # set login user saikeo authentication plain-text-password
 # commit
 ```
-* Add new class as below:
+* Add new custom login class as below:
 
 <p align = "left">
 <img src = "https://i.imgur.com/FmFEAqO.png">
 </p>
+```
+# edit system login 
+# set class saikeo-class permissions all allow-commands "configure private" deny-commands configure
+# set class saikeo-class permissions clear allow-commands "(show system uptime)|(show system storage)|(show interfaces terse)"
+# set class saikeo-class permissions view-configuration deny-commands "file delete"
+# set user ronly class ronly-class authentication plain-text-password 
+# set user saikeo1 class saikeo-class authentication plain-text-password
+# set user restricted class restricted-class authentication plain-text-password
+```
+Verify: User saikeo1 won't be able to use "configure" command. Need to use "configure private" command instead.
+<p align = "left">
+<img src = "https://i.imgur.com/dIGneJo.png">
+</p>
+* Syslog configuration
