@@ -50,4 +50,18 @@ In this LAB I am going to configure initail system and high availability on Juni
 <p align = "center">
 <img src = "https://i.imgur.com/9ur61Nl.png">
 </p>
+
 ## [](#header-2) 2. Authentication and authorization
+* Add new user "saikeo" with the predefined login class "super-user".
+```
+# edit system
+# set login user saikeo class super-user
+# set login user saikeo authentication plain-text-password
+# commit
+```
+* Add new class as below:
+| Username        | password           | Device  | Privileges |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
