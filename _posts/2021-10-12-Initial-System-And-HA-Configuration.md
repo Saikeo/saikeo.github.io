@@ -158,3 +158,64 @@ Define node0 and node1 specific parameters on this cluster.
 
 # set apply-groups "${node}"
 ```
+Configure the loopback address in standalone mode.
+```
+# set interfaces lo0 unit 0 family inet address 1.1.1.1/32
+```
+## 7. Configuring redundancy groups and ethernet interfaces
+Set the node 0 with higher priority to make node 0 be primary for this cluster. 
+```
+# edit chassis cluster
+# set redundancy-group 0 node 0 priority 200
+# set redundancy-group 0 node 1 priority 100
+```
+Configure reth interface, number and add child interface into it. I am going to configure 2 reth interface with each 2 child interface.
+```
+# edit chassis cluster
+# set reth-count 2
+# top edit interfaces
+# set ge-0/0/0 gigether-options redundant-parent reth0
+# set ge-7/0/0 gigether-options redundant-parent reth0
+# set ge-0/0/3 gigether-options redundant-parent reth1
+# set ge-7/0/1 gigether-options redundant-parent reth1
+```
+I have create 3 VLAN on Dist-SW as below:
+```
+Dist-SW#sh vlan
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+1    default                          active    Et0/0, Et0/1, Et1/3
+10   Users                            active    Et0/2
+20   DMZ                              active    Et0/3
+30   Admin                            active    
+```
+Configure redundancy group.
+```
+# edit chassis cluster 
+# set redundancy-group 1 node 0 priority 200
+# set redundancy-group 1 node 1 priority 100
+# set redundancy-group 1 preempt
+# set redundancy-group 1 interface-monitor ge-0/0/0 weight 255
+# set redundancy-group 1 interface-monitor ge-7/0/0 weight 255
+
+# set redundancy-group 2 node 0 priority 100
+# set redundancy-group 2 node 1 priority 200
+# set redundancy-group 2 preempt
+# set redundancy-group 2 interface-monitor ge-0/0/3 weight 255
+# set redundancy-group 2 interface-monitor ge-7/0/1 weight 255
+```
+So reth0 is an IP interface without VLAN tagging and the reth1 is VLAN tagged interfaces.
+```
+# edit interfaces
+# set reth0 redundant-ether-options redundancy-group 1
+# set reth1 redundant-ether-options redundancy-group 2
+# set reth0 unit 0 family inet address 192.168.255.2/24
+# set reth1 vlan-tagging
+# set reth1 unit 10 vlan-id 10
+# set reth1 unit 10 family inet address 172.16.1.1/24
+# set reth1 unit 20 vlan-id 20
+# set reth1 unit 20 family inet address 172.16.2.1/24
+# set reth1 unit 30 vlan-id 30
+# set reth1 unit 30 family inet address 172.16.3.1/24
+```
