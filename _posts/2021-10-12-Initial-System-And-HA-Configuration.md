@@ -129,7 +129,8 @@ root@vSRX1> set chassis cluster cluster-id 1 node 0 reboot
 root@vSRX2> set chassis cluster cluster-id 1 node 1 reboot
 ```
 Verify:
-```
+
+```javascript
 {primary:node0}
 root@vSRX1> show chassis cluster status 
 Cluster ID: 1
@@ -144,4 +145,16 @@ Configure GE-0/0/1 for Control link and GE-0/0/2 for Fabric link.
 # set interfaces fab0 fabric-options member-interfaces ge-0/0/2
 # set interfaces fab1 fabric-options member-interfaces ge-7/0/2
 # set chassis cluster control-link-recovery
+```
+Define node0 and node1 specific parameters on this cluster.
+```
+# edit groups node0 
+# set system host-name vSRX1
+# set interfaces fxp0 unit 0 family inet address 192.168.1.1/24
+
+# edit groups node1 
+# set system host-name vSRX2
+# set interfaces fxp0 unit 0 family inet address 192.168.1.2/24
+
+# set apply-groups "${node}"
 ```
