@@ -1,7 +1,7 @@
 ---
 title: We are lets drink corp (LDC)
 tags: [Drinking,Beer,Fuck]
-published: false
+published: true
 thumbnail: https://d3m7xw68ay40x8.cloudfront.net/assets/2019/08/02145655/august-2019-beer-events-guide.jpg
 ---
 
