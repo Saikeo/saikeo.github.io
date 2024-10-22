@@ -9,7 +9,7 @@ image: https://www.netspi.com/wp-content/uploads/2020/10/Kerberos_Participants.p
 
 *I want to start with article by saying I set out to learn Kerberos in greater detail and I figured that writing this would help cement my existing knowledge and give me reason to learn along the way, I am no Kerberos expert I am simply learning as I go along and getting my head around all the different terminologies so if you notice something amiss feel free to DM me and put me right. And if you do not understand something feel free to drop me a DM and I will do my best to help :)* 
 
-![Image result for kerberos image](https://search-guard.com/wp-content/uploads/2018/12/elasticsearch_kibana_kerberos.gif)
+![Image result for kerberos image](https://www.netspi.com/wp-content/uploads/2020/10/Kerberos_Participants.png)
 
 In this article I will discuss all the primary attacks on Kerberos, how to enumerate for them & finally how to exploit them using a wide range of toolsets. I will also try my best to outline how to carry out these attacks from both a domain joined Windows box & an external Linux VM i/e an attackers platform.
 
