@@ -22,8 +22,8 @@ The conferenece journey have begun. It's my frist day in Luxembourge and the wea
 
 On the community workshop we have discuss as the following topics:
 
-  **1. Introduction yourself.**
-  **2. Weblate user expereince.**
-  **3. LibreOffice Marketing stratigy.**
+  **1. Introduction yourself.**  
+  **2. Weblate user expereince.**  
+  **3. LibreOffice Marketing stratigy.**  
 
 ## [](#header-2)Conference day 1!
