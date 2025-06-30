@@ -27,3 +27,9 @@ On the community workshop we have discuss as the following topics:
   **3. LibreOffice Marketing stratigy.**  
 
 ## [](#header-2)Conference day 1!
+
+Get up in the morning and have a breakfast at ibis Styles Luxembourg Centre Gare then go to Luxemburge Gare to take a train to Belval.
+
+<p align = "center">
+<img src = "https://i.imgur.com/rir1QHR.jpeg">
+</p>
