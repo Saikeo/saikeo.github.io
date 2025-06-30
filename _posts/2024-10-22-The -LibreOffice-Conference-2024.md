@@ -30,8 +30,12 @@ On the community workshop we have discuss as the following topics:
 
 Get up in the morning and have a breakfast at ibis Styles Luxembourg Centre Gare then go to Luxemburge Gare to take a train to Belval. Today the weather is so good for me. I love cool weather cause in Laos the waether is quite hot.
 
-<img align="center" src ="https://i.imgur.com/rir1QHR.jpeg"></img>
+<p align = "center">
+<img src = "https://i.imgur.com/rir1QHR.jpeg">
+</p>
 
 Riding traing to Esch-sur-AlzetteEsch-sur-Alzette and walk into red building.
 
-<img align="center" src ="https://i.imgur.com/bPOh50h.jpeg"></img>
+<p align = "center">
+<img src = "https://i.imgur.com/bPOh50h.jpeg">
+</p>
