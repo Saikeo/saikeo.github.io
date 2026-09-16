@@ -40,9 +40,14 @@ Riding traing to Esch-sur-AlzetteEsch-sur-Alzette and walk into red building.
 <img src = "https://i.imgur.com/bPOh50h.jpeg">
 </p>
 
-First day session have began in Auditorium room with Opening Address by Eliane Domingos and follow by Welcome Address by Serger Linkels.
+The first day's session began in the Auditorium room with an Opening Address by Eliane Domingos, followed by a Welcome Address by Serger Linkels.
 
-After openning address the keynote speaker have been present by: Stéphanie Obertin - Keynote of Minister for Research, Higher Education and of Digitalisation and there many session have been present in Auditorium room such as: How Passbolt found its market fit thanks to open source by Kevin Muller, Open source in research – The SnT way by Jacek Plucinski, Ministry of the Economy announcing the first OSPO in Luxembourg by Francois Thill and A gentle introduction to free/open source at the European Commission by Gijs Hillenius.
+After the opening address, the keynote was presented by Stéphanie Obertin, Minister for Research, Higher Education, and Digitalisation. Several sessions were then held in the Auditorium room, including:
+
+* How Passbolt Found Its Market Fit Thanks to Open Source" by Kevin Muller 
+* Open Source in Research – The SnT Way" by Jacek Plucinski 
+* Ministry of the Economy Announcing the First OSPO in Luxembourg" by Francois Thill 
+* A Gentle Introduction to Free/Open Source at the European Commission" by Gijs Hillenius
 
 <p align = "center">
 <img src = "https://i.imgur.com/CHS8ToK.png">
