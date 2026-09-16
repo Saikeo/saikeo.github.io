@@ -31,25 +31,25 @@ On the community workshop we have discuss as the following topics:
 Get up in the morning and have a breakfast at ibis Styles Luxembourg Centre Gare then go to Luxemburge Gare to take a train to Belval. Today the weather is so good for me. I love cool weather cause in Laos the waether is quite hot.
 
 <p align = "center">
-<img src = "https://i.imgur.com/rir1QHR.jpeg">
+<img src = "https://i.imgur.com/rir1QHR.jpeg" width="600" height="400">
 </p>
 
 Riding traing to Esch-sur-AlzetteEsch-sur-Alzette and walk into red building.
 
 <p align = "center">
-<img src = "https://i.imgur.com/bPOh50h.jpeg">
+<img src = "https://i.imgur.com/bPOh50h.jpeg" width="600" height="400">
 </p>
 
 The first day's session began in the Auditorium room with an Opening Address by Eliane Domingos, followed by a Welcome Address by Serger Linkels.
 
 After the opening address, the keynote was presented by Stéphanie Obertin, Minister for Research, Higher Education, and Digitalisation. Several sessions were then held in the Auditorium room, including:
 
-* How Passbolt Found Its Market Fit Thanks to Open Source" by Kevin Muller 
-* Open Source in Research – The SnT Way" by Jacek Plucinski 
-* Ministry of the Economy Announcing the First OSPO in Luxembourg" by Francois Thill 
-* A Gentle Introduction to Free/Open Source at the European Commission" by Gijs Hillenius
+* How Passbolt Found Its Market Fit Thanks to Open Source by Kevin Muller 
+* Open Source in Research – The SnT Way by Jacek Plucinski 
+* Ministry of the Economy Announcing the First OSPO in Luxembourg by Francois Thill 
+* A Gentle Introduction to Free/Open Source at the European Commission by Gijs Hillenius
 
 <p align = "center">
-<img src = "https://i.imgur.com/CHS8ToK.png">
+<img src = "https://i.imgur.com/CHS8ToK.png" width="600" height="400">
 </p>
 
