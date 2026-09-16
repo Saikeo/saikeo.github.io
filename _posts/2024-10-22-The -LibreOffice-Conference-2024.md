@@ -53,3 +53,11 @@ After the opening address, the keynote was presented by Stéphanie Obertin, Mini
 <img src = "https://i.imgur.com/CHS8ToK.png" width="600" height="400">
 </p>
 
+In the afternoon session I have attended Cybersecurity (Room C1.03.05) and Open Sourse Workshop (Room C1.03.06) track as session below:
+* An open source low-code/no-code lab to build your own ethical software applications by Ivan Alfonso
+* ILR presenting SERIMA an Open Source tools for NIS2 compliance by Sheila Beker
+* Kunai: An Open-Source Threat-Detection Tool for Linux by Quentin Jerome
+* Ask us anything - openDesk on openCode - building sovereign software for the public sector by Alexander Smolianitski and Leonhard Kugler
+* Enhancing Coordinated Vulnerability Disclosure with Open Source: A Deep Dive into the Vulnerability-Lookup Project by Jean-Louis Huyen and Alexandre Dulaunoy
+
+Conference day 1 have been finished and I have learn a lot of new open source development update in Europe and in Luxemburge that they will tranform a small nation to become a tech country. The conference have been cover many interested topic in cyber security field as well.
