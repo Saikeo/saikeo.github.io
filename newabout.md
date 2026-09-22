@@ -1,7 +1,7 @@
-# m0chan's GitHub Page
+# Saikeo's GitHub Page
 
 ## About Me
-I am known as m0chan/mochan online & Aidan in real life - I am a Red Teamer/Pentester based in Scotland working on mainly network & webapp based assessments. I created this GitHub so I have a platform to share my scripts, resources & finally to publish any CTF/VulnHub writeups. 
+I am known as Saikeo online & Aidan in real life - I am a Red Teamer/Pentester based in Scotland working on mainly network & webapp based assessments. I created this GitHub so I have a platform to share my scripts, resources & finally to publish any CTF/VulnHub writeups. 
 
 ## HackTheBox Writeups
 
@@ -10,4 +10,4 @@ As I am aiming to become OSCP certified and undertake the dreaded OSCP course at
 
 ## Contact Me
 
-If you would like to contact me regarding any of my projects / work feel free to drop me an email at - aidan@aidesigns.net
+If you would like to contact me regarding any of my projects / work feel free to drop me an email at - kavhanxay@hotmail.com
