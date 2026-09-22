@@ -12,8 +12,6 @@ Here is a complete, multi-stage blueprint to build a hands-on L3VPN Topology Lab
 <img src = "https://i.imgur.com/UuEjh7Z.png">
 </p>
 
-In this LAB I am going to configure IPv6 transition technology by using 6to4 technology. In this LAB include 3 Huawei router and 2 Ubuntu desktop.
-
 ## [](#header-2) 1. IP Addressing Matrix:
 ```
 WAN Links to CE:
