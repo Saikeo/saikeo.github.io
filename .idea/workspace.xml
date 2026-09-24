@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb97283-abf1-466a-855a-a107aa97c2df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newabout.md" beforeDir="false" afterPath="$PROJECT_DIR$/newabout.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2026-09-24-Nexus-9300-L2-vPC-and-Multi-Po-with-VRRP-Lab.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +56,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Saikeo\Documents\GitHub\saikeo.github.io\_posts" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="saikeo.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="saikeo.github.io" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
