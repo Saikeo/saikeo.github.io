@@ -2,7 +2,7 @@
 title: Nexus 9300 L2-vPC and Multi-Po with VRRP Lab
 tags: [MPLS,L3VPN,CCIE]
 published: true
-description: Basic Lab for Layer 3 Virtual Private Network (L3VPN)
+description: This workbook covers the complete initialization, feature activation, core vPC orchestration, and VRRP gateway redundancy configuration
 thumbnail: https://i.imgur.com/W7J3sT3.png
 ---
 
