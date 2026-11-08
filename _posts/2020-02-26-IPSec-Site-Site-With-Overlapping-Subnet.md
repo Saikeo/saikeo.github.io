@@ -1,5 +1,8 @@
 ---
 title: How to configure IPSec site to site with overlapping subnet
+redirect_from:
+  - "/2020/02/26/IPSec-Site-Site-With-Overlapping Subnet.html"
+  - /2020/02/26/ipsec-site-site-with-overlapping-subnet.html
 tags: [IPSec,Cisco,Network,VPN]
 published: true
 description: This is method how to configure IPSec site to site with overlapping subnet on Cisco IOS

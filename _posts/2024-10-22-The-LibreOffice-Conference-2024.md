@@ -1,5 +1,8 @@
 ---
 title: A comprehensive report on my first in-person attendance at The LibreOffice Conference 2024
+redirect_from:
+  - "/2024/10/22/The -LibreOffice-Conference-2024.html"
+  - /2024/10/22/the-libreoffice-conference-2024.html
 tags: [LibreOffice,TDF,Conference]
 published: true
 description: Event summary report for The LibreOffice Conference 2024

@@ -1,5 +1,5 @@
 ---
-title: How to install Teraaform on CentOS 7
+title: How to install Terraform on CentOS 7
 tags: [Devops,Automation]
 published: true
 description: This is method how to install Terraform on CentOS 7

@@ -1,5 +1,8 @@
 ---
 title: Bug Bounty Cheatsheet
+redirect_from:
+  - /2019/12/17/Bug-Bounty-Cheetsheet.html
+  - /2019/12/17/bug-bounty-cheetsheet.html
 tags: [Bug Bounty,Web App,Subdomain Enumeration,Cheatsheet]
 published: true
 description: A place for me to store my notes/tricks for Bug Bounty Hunting - Big Work in Progress. 
