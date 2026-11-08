@@ -1,5 +1,9 @@
 title: Saikeo Blog - Networking, Open Source, Info Sec, CTF & Hacking
-author: Saikeo
+url: "https://saikeo.github.io"
+baseurl: ""
+author:
+  name: Saikeo Kavhanxay
+  email: kavhanxay@hotmail.com
 email: kavhanxay@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Networking, Open Source, Info Sec, CTF & Hacking
@@ -54,3 +58,4 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
